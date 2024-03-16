@@ -1,10 +1,10 @@
 # JARVIS
 Based on the assistant JARVIS from Iron Man  A lot comes together here  
 
-Chat-GTP4  
-OpenCV 
-TensorFlow 
-Gemini 
+Chat-GTP4
+OpenCV
+TensorFlow
+Gemini
 and much more   
 
 who wants to help is welcome to do so  
