@@ -14,7 +14,15 @@ JARVIS is an AI-powered assistant inspired by the fictional character from Iron 
 
 To use JARVIS, follow these steps:
 
-1. Clone the repository:
+X. Clone the repository:
 
    ```bash
    git clone https://github.com/PandorasBoxTool/JARVIS.git
+   ```
+
+#### Contributor
+
+* Main Contributor : [PandorasBoxTool](https://github.com/PandorasBoxTool)
+
+> [!NOTE]  
+> ****All code included in this repository is subject to copyright protection. Users are reminded to respect the intellectual property rights of the original authors and to obtain proper authorization before using or redistributing any code for commercial or non-commercial purposes.****
